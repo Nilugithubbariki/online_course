@@ -1,0 +1,23 @@
+ul {
+  display: flex;
+  gap: 21px;
+  justify-content: space-between;
+}
+.lastContainer > ul > li {
+  list-style: none;
+}
+ol > li {
+  line-height: 40px;
+}
+.wrap {
+  background: red;
+  margin-top: -16px;
+}
+.submitStyle {
+  margin-left: -87px;
+  width: 79px;
+  border-radius: 10px;
+  background: red;
+  border: none;
+  height: 27px;
+}

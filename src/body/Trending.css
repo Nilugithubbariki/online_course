@@ -1,0 +1,19 @@
+.srcStyle {
+  width: 200px;
+}
+.line {
+  border-bottom: 1px solid black;
+}
+.featuredInc {
+  margin-top: 70px;
+}
+.center {
+  text-align: center;
+}
+.MainCardWrapperStyle {
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+.srStyle {
+  width: 200px;
+  margin: auto;
+}

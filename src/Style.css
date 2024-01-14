@@ -1,0 +1,60 @@
+@media (max-width: 768px) {
+  .navContainer {
+    width: 149%;
+  }
+  .cardStyle {
+    margin-left: 81px;
+    gap: 85px;
+    width: 954px;
+  }
+  .mainContainerStyle {
+    width: 149%;
+  }
+  .mainContainer {
+    display: flex;
+    justify-content: space-around;
+    gap: 128px;
+    margin-top: 30px;
+    margin-left: 385px;
+  }
+  .MainCardWrapperStyle {
+    width: 149%;
+  }
+  .leadStyle {
+    margin-left: 351px;
+  }
+  .knowledge {
+    width: 152%;
+  }
+  .userStyle {
+    width: 152%;
+  }
+  .div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    gap: 20px;
+    margin-left: 135px;
+    width: 854px;
+  }
+  .blocgStyle {
+    width: 152%;
+  }
+  .wrap {
+    width: 152%;
+  }
+}
+@media (max-width: 480px) {
+  .navContainer {
+    width: 402%;
+  }
+  .mainCardStyle {
+    width: 402%;
+  }
+  .mainContainerStyle {
+    width: 402%;
+  }
+  .MainCardWrapperStyle {
+    width: 402%;
+  }
+}

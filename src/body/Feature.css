@@ -1,0 +1,42 @@
+.mainContainerStyle {
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+.mainWrapper {
+  margin-left: 84px;
+  margin-right: 84px;
+  margin-top: 73px;
+  padding: 50px;
+}
+.divStyle {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 84px;
+}
+.childDivStyle {
+  height: 300px;
+  width: 200px;
+  box-shadow: 1px 1px 1px 1px gray;
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+}
+.ProductimageStyle {
+  width: 200px;
+}
+.borderStyle {
+  border-bottom: 1px solid black;
+  margin-top: -10px;
+}
+.style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.buyStyle {
+  border: 1px solid violet;
+  border-radius: 20px;
+  height: 28px;
+  background: white;
+}

@@ -1,0 +1,84 @@
+.leadStyle {
+  text-align: center;
+  margin-top: 50px;
+}
+.logoimageStyle {
+  width: 100px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 71px;
+}
+.knowledge {
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+.btnStyle {
+  border: 1px solid violet;
+  height: 30px;
+  border-radius: 10px;
+  width: 102px;
+  background: white;
+}
+.userStyle {
+  height: 200px;
+  text-align: center;
+  color: white;
+  border: 1px solid black;
+  background: black;
+  opacity: 0.4;
+}
+.div {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.leftdiv {
+  width: 450px;
+  border-radius: 10px;
+  background: #e06961;
+  padding: 20px;
+}
+.rightdiv {
+  width: 450px;
+  border-radius: 10px;
+  background: #ffeb3b;
+  padding: 20px;
+}
+.latestBlog {
+  text-align: center;
+  margin-top: 40px;
+}
+.fotStyle {
+  width: 50px;
+}
+.book {
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(to right, #badcf7, #eef1f1);
+  align-items: center;
+  border-radius: 14px;
+}
+.foterline {
+  margin-top: 40px;
+  margin-top: 40px;
+  width: 977px;
+  margin-left: 142px;
+  border-radius: 14px;
+}
+.footunlimitedStyle {
+  text-align: center;
+}
+.courselogo {
+  width: 50px;
+}
+.divimage {
+  display: flex;
+  justify-content: space-around;
+}
+.blocgStyle {
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
