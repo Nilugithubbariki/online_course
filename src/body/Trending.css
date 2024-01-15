@@ -1,5 +1,6 @@
 .srcStyle {
   width: 200px;
+  margin: auto;
 }
 .line {
   border-bottom: 1px solid black;
